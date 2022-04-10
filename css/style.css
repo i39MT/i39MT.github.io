@@ -551,3 +551,6 @@ div.toast_shown {
     opacity: 0;
     user-select: none;
 }
+.reply_to {
+    direction: rtl;
+}
