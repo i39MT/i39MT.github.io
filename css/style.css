@@ -555,5 +555,6 @@ div.toast_shown {
     direction: rtl;
 }
 .message.default.clearfix {
-    border: 6px solid #2d2d2d;
+    border-top: 6px solid #2d2d2d;
+    border-bottom: 6px solid #2d2d2d;
 }
