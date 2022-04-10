@@ -79,6 +79,9 @@ pre {
 .details {
     color: #70777b;
 }
+.date{
+    padding: 0 10px 0 0;
+}
 .page_header .content .text {
     direction: rtl;
     padding: 24px 24px 22px 24px;
