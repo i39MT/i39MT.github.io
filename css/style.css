@@ -554,3 +554,6 @@ div.toast_shown {
 .reply_to {
     direction: rtl;
 }
+.message.default.clearfix {
+    border: 6px solid #2d2d2d;
+}
