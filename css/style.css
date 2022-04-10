@@ -44,8 +44,8 @@ pre {
     float: right;
 }
 .page_wrap {
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #1f1f1f;
+    color: #FFFFFF;
 }
 .page_wrap a {
     color: #168acd;
@@ -57,7 +57,7 @@ pre {
 .page_header {
     position: fixed;
     z-index: 10;
-    background-color: #ffffff;
+    background-color: #3d3d3d;
     width: 100%;
     border-bottom: 1px solid #e3e6e8;
 }
@@ -72,7 +72,7 @@ pre {
     background-size: 24px 24px;
 }
 .bold {
-    color: #212121;
+    color: #FFFFFF;
     font-weight: 700;
 }
 .details {
